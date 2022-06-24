@@ -1,5 +1,5 @@
 # Minercon
-Minercon is a 2D Game, where you mine stuff. Have fun breaking you fist by mining those ores
+Minercon is a 2D Game, where you mine stuff. Yes that's it.
 
 ## How to play:
 * First download the minercon.zip file
