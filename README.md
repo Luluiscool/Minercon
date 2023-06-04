@@ -1,6 +1,6 @@
 # MINERCON 1.2
 
-## Minecron is one of my weird, exotic or whatever the hell it is.
+## Minecron is one of my weird, exotic or whatever the heck it is.
 ## Just dont install this it is too cringe
 ## WHY I EVEN MADE THIS?
 ## I guess atleast i made my rendering engine from scratch for this game and it turned out pretty well...
