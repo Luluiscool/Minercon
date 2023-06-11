@@ -1,5 +1,5 @@
 # MINERCON 1.2 (DISCONTINUED)
-## THE PROJECT HAVE BEEN DISCONTINUED AND WONT WORK ANYMORE
+## The project have been discontinued, if you download this project, it will still work
 
 ## Minecron is one of my weird, exotic or whatever the heck it is.
 ## Just dont install this it is too cringe
